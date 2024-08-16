@@ -1,3 +1,3 @@
-It's an hardware project for audio palyer base on RockBox.
+It's an hardware project for audio palyer base on RockBox.(https://github.com/Rockbox/rockbox)
 And right now, I want build a platform to start run the orignal RockBox firmware.
 I already tested the release on Mini2440, which is a develop borad base S3C2440A. Some information refer to here.(https://www.friendlyelec.com/index.php?route=product/product&product_id=54)
